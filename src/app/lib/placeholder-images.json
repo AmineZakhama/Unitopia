@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-campus",
+      "description": "Futuristic university campus architecture",
+      "imageUrl": "https://picsum.photos/seed/nexus1/1200/800",
+      "imageHint": "futuristic campus architecture"
+    },
+    {
+      "id": "student-profile",
+      "description": "Student avatar",
+      "imageUrl": "https://picsum.photos/seed/student1/200/200",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "lab-facility",
+      "description": "High-tech university laboratory",
+      "imageUrl": "https://picsum.photos/seed/lab1/600/400",
+      "imageHint": "modern laboratory"
+    }
+  ]
+}
